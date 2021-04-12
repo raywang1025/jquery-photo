@@ -1,0 +1,24 @@
+/* navigation */
+
+.navigation ul {
+    list-style-type: none;
+    float: right;
+    margin-right: 30px;
+}
+
+.navigation .logo {
+    float: left;
+    margin-left: 30px;
+}
+
+.navigation li {
+    /* text-decoration: none; */
+    float: left;
+    margin-left: 30px;
+    margin-top: 16px;
+}
+
+.navigation a {
+    color: black;
+    text-decoration: none;
+}
